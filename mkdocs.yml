@@ -91,6 +91,6 @@ nav:
       - Live Loads : loads/live-loads.md
       - Load Combination : loads/load-combinations.md
     - FAQ : faq.md
-    - Downloads : downloads.md
+    - Links : links.md
 
 use_directory_urls: false
