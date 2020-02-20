@@ -78,19 +78,19 @@ plugins:
 
 nav:
     - Home: index.md
-    - Getting Started : Getting Started.md
-    - Ribbon : Ribbon/Ribbon.md
+    - Getting Started : getting-started.md
+    - Ribbon : ribbon/ribbon.md
     - Geometry :
-      - Basic : Geometry/Basic.md
-      - Skew : Geometry/Skew.md
-      - Curvature : Geometry/Curvature.md
-      - Extra Nodes : Geometry/Extra Nodes.md
-    - Properties : Properties/Properties.md
+      - Basic : geometry/basic.md
+      - Skew : geometry/skew.md
+      - Curvature : geometry/curvature.md
+      - Extra Nodes : geometry/extra-nodes.md
+    - Properties : properties/properties.md
     - Loads :
-      - Dead Loads : Loads/Dead Loads.md
-      - Live Loads : Loads/Live Loads.md
-      - Load Combination : Loads/LoadComb.md
-    - FAQ : FAQ.md
-    - Downloads : Downloads.md
+      - Dead Loads : loads/dead-loads.md
+      - Live Loads : loads/live-loads.md
+      - Load Combination : loads/load-combinations.md
+    - FAQ : faq.md
+    - Downloads : downloads.md
 
 use_directory_urls: false
