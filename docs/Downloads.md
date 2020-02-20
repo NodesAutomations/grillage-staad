@@ -1,15 +1,12 @@
 # Downloads
 
-### Main Software
+### Website for Offline Use
 
-- Download Main Software : 
-- Download Prerequisite:
+To Use website without internet Follow these steps.
 
-### Download Whole Site For offline use 
-
-- Download Site : [Download Website](https://github.com/NodesAutomations/staad-grillageaddin/archive/gh-pages.zip)
+- Download Site : [Download](https://github.com/NodesAutomations/staad-grillageaddin/archive/gh-pages.zip)
 - Unzip All Files
 - Open **index.html** File
 
-### QR Code For Mobile
+### QR Code
 ![](assets/images/qr-code.svg)
