@@ -78,6 +78,7 @@ plugins:
 
 nav:
     - Home: index.md
+    - Getting Started : Getting Started.md
     - Downloads : Downloads.md
 
 use_directory_urls: false
