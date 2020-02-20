@@ -85,6 +85,7 @@ nav:
       - Skew : Geometry/Skew.md
       - Curvature : Geometry/Curvature.md
       - Extra Nodes : Geometry/Extra Nodes.md
+    - FAQ : FAQ.md
     - Downloads : Downloads.md
 
 use_directory_urls: false
