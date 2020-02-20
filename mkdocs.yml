@@ -78,13 +78,6 @@ plugins:
 
 nav:
     - Getting started: index.md
-    - Set Up : Mkdocs Documentation Setup.md
-    - Extensions:
-      - Admonition : Extensions/Admonition.md
-      - CodeHilite : Extensions/CodeHilite.md
-      - PyMarkdown : Extensions/PyMarkdown.md
-      - Mermaid : Extensions/mermaid.md
-    - Customization : Customization.md
     - Downloads : Downloads.md
 
 use_directory_urls: false
