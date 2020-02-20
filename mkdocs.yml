@@ -86,6 +86,10 @@ nav:
       - Curvature : Geometry/Curvature.md
       - Extra Nodes : Geometry/Extra Nodes.md
     - Properties : Properties/Properties.md
+    - Loads :
+      - Dead Loads : Loads/Dead Loads.md
+      - Live Loads : Loads/Live Loads.md
+      - Load Combination : Loads/LoadComb.md
     - FAQ : FAQ.md
     - Downloads : Downloads.md
 
