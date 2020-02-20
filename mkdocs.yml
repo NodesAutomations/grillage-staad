@@ -79,6 +79,7 @@ plugins:
 nav:
     - Home: index.md
     - Getting Started : Getting Started.md
+    - Ribbon : Ribbon/Ribbon.md
     - Downloads : Downloads.md
 
 use_directory_urls: false
