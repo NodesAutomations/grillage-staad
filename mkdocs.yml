@@ -82,6 +82,7 @@ nav:
     - Ribbon : ribbon/ribbon.md
     - Geometry :
       - Basic : geometry/basic.md
+      - Tapered : geometry/tapered.md
       - Skew : geometry/skew.md
       - Curvature : geometry/curvature.md
       - Extra Nodes : geometry/extra-nodes.md
