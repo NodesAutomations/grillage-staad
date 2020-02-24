@@ -11,52 +11,57 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://nodesautomations.github.io/staad-grillageaddin/ribbon/ribbon.html</loc>
+     <loc>https://nodesautomations.github.io/staad-grillageaddin/excel/ribbon.html</loc>
      <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://nodesautomations.github.io/staad-grillageaddin/geometry/basic.html</loc>
+     <loc>https://nodesautomations.github.io/staad-grillageaddin/excel/geometry.html</loc>
      <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://nodesautomations.github.io/staad-grillageaddin/geometry/tapered.html</loc>
+     <loc>https://nodesautomations.github.io/staad-grillageaddin/excel/properties.html</loc>
      <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://nodesautomations.github.io/staad-grillageaddin/geometry/skew.html</loc>
+     <loc>https://nodesautomations.github.io/staad-grillageaddin/excel/dead-loads.html</loc>
      <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://nodesautomations.github.io/staad-grillageaddin/geometry/curvature.html</loc>
+     <loc>https://nodesautomations.github.io/staad-grillageaddin/excel/live-loads.html</loc>
      <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://nodesautomations.github.io/staad-grillageaddin/geometry/extra-nodes.html</loc>
+     <loc>https://nodesautomations.github.io/staad-grillageaddin/excel/load-combinations.html</loc>
      <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://nodesautomations.github.io/staad-grillageaddin/properties/properties.html</loc>
+     <loc>https://nodesautomations.github.io/staad-grillageaddin/examples/basic.html</loc>
      <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://nodesautomations.github.io/staad-grillageaddin/loads/dead-loads.html</loc>
+     <loc>https://nodesautomations.github.io/staad-grillageaddin/examples/skew.html</loc>
      <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://nodesautomations.github.io/staad-grillageaddin/loads/live-loads.html</loc>
+     <loc>https://nodesautomations.github.io/staad-grillageaddin/examples/tapered.html</loc>
      <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://nodesautomations.github.io/staad-grillageaddin/loads/load-combinations.html</loc>
+     <loc>https://nodesautomations.github.io/staad-grillageaddin/examples/curvature.html</loc>
+     <lastmod>2020-02-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://nodesautomations.github.io/staad-grillageaddin/examples/extra-nodes.html</loc>
      <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
