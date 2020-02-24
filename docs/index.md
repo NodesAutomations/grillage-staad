@@ -16,3 +16,6 @@ STAAD Grillage Add-in can Generate STAAD Grillage Model as per User Input for an
 - Load Combination Generation
 - Generate Multiple Model (Girder only, Composite, Live Load, Jack Up) in Single Click
 
+### Demo
+![](assets/gifs/firstmodel.gif)
+![](assets/gifs/modelgeneration.gif)
