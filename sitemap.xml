@@ -2,67 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://nodesautomations.github.io/staad-grillageaddin/index.html</loc>
-     <lastmod>2020-02-20</lastmod>
+     <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://nodesautomations.github.io/staad-grillageaddin/getting-started.html</loc>
-     <lastmod>2020-02-20</lastmod>
+     <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://nodesautomations.github.io/staad-grillageaddin/ribbon/ribbon.html</loc>
-     <lastmod>2020-02-20</lastmod>
+     <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://nodesautomations.github.io/staad-grillageaddin/geometry/basic.html</loc>
-     <lastmod>2020-02-20</lastmod>
+     <lastmod>2020-02-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://nodesautomations.github.io/staad-grillageaddin/geometry/tapered.html</loc>
+     <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://nodesautomations.github.io/staad-grillageaddin/geometry/skew.html</loc>
-     <lastmod>2020-02-20</lastmod>
+     <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://nodesautomations.github.io/staad-grillageaddin/geometry/curvature.html</loc>
-     <lastmod>2020-02-20</lastmod>
+     <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://nodesautomations.github.io/staad-grillageaddin/geometry/extra-nodes.html</loc>
-     <lastmod>2020-02-20</lastmod>
+     <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://nodesautomations.github.io/staad-grillageaddin/properties/properties.html</loc>
-     <lastmod>2020-02-20</lastmod>
+     <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://nodesautomations.github.io/staad-grillageaddin/loads/dead-loads.html</loc>
-     <lastmod>2020-02-20</lastmod>
+     <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://nodesautomations.github.io/staad-grillageaddin/loads/live-loads.html</loc>
-     <lastmod>2020-02-20</lastmod>
+     <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://nodesautomations.github.io/staad-grillageaddin/loads/load-combinations.html</loc>
-     <lastmod>2020-02-20</lastmod>
+     <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://nodesautomations.github.io/staad-grillageaddin/faq.html</loc>
-     <lastmod>2020-02-20</lastmod>
+     <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://nodesautomations.github.io/staad-grillageaddin/links.html</loc>
-     <lastmod>2020-02-20</lastmod>
+     <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
