@@ -2,7 +2,7 @@
 
 ### Grillage Tab 
 
-![](../assets/images/addinfull.png)
+[![add-in](../assets/images/addinfull.png)](../assets/images/addinfull.png)
 
 - Grillage Tab Automatically Activated when user will open Grillage Add-in Excel Sheet.
 
@@ -11,7 +11,7 @@
 
 ### Keyboard Shortcuts 
 
-![](../assets/images/addinshortcuts.png)
+[![add-in-keyshortcut](../assets/images/addinshortcuts.png)](../assets/images/addinshortcuts.png)
 
 - User can use `ALT+G` keyboard shortcut to Access this tab.
 
