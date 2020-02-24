@@ -40,6 +40,9 @@ Now when you install Grillage Add-in it will automatically install Grillage Tab 
 
 To Create Your First Model just Select model from Models group and Click on Generate STAAD Models. This will create `GrillageAddin_Models` Folder where your Excel Sheet is Located. This folder includes all generated models.
 
-Congratulations!!! You have just created your first Automated Grillage model.
+Congratulations!!! 🎉👏              
+You have just created your Grillage model with Properties and Loading in Single Click.
 
-![](assets/gifs/firstmodel.gif)
+!!! tip
+    Just Explore Generated STAAD Models for better understanding.
+    Try to Change few variable in Excel Sheet and observe changes in STAAD Models.

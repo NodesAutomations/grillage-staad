@@ -1,20 +1,21 @@
 # Ribbon Tab
 
-### Grillage Tab
+### Grillage Tab 
 
 ![](../assets/images/addinfull.png)
-
-![](../assets/images/addinshortcuts.png)
 
 - Grillage Tab Automatically Activated when user will open Grillage Add-in Excel Sheet.
 
 - This tab won’t be activated with any other excel sheet.
 
+
+### Keyboard Shortcuts 
+
+![](../assets/images/addinshortcuts.png)
+
 - User can use `ALT+G` keyboard shortcut to Access this tab.
 
 - To use Specific command for example to see Changelog use `ALT+G+K`
-
-  
 
 ### Models
 
@@ -25,6 +26,9 @@ This group includes checkbox for each model to be generated. program will only g
 - LiveLoad : This model is same as Composite model with moving loads. Dead loads are not included.
 - JackUp : This model is Also Copy of Composite Model only Change is Support Locations.
 - Deflection : Composite model with Elasticity modified for deflection check.
+
+!!! tip
+    Setting for selected Model will be saved in Excel Sheet: Settings worksheet.This Settings is Specific to each Excel Sheet.
 
 ### Files
 
@@ -37,6 +41,9 @@ This group includes checkbox for each model to be generated. program will only g
 - Default Unit : Ton,Meter
 - Keyboard Shortcut : `ALT+G+G+M`
 
+!!! warning
+    When you Generate New Model Program will Overwrite Existing Models. So, If you want to save Old Model Change Name of Folder(Save All Models) or Change Name of STAAD Model(Save Specific Model).
+
 #### Import DXF File
 
 - Functions : 
@@ -45,6 +52,9 @@ This group includes checkbox for each model to be generated. program will only g
 	- Option to Extract Curvature from Multiple Drawings.
 - Default Unit : mm
 - Keyboard Shortcut : `ALT+G+I`
+
+!!! warning
+    Before Importing AutoCAD DXF File Make Sure that All Curature Are in Sepetate Layer(only one Curvature per Layer). If you Keep two Curvature in Single layer than Program will create Single Curvature from all Curvature Points.
 
 #### Export DXF File
 
@@ -69,6 +79,14 @@ This group includes checkbox for each model to be generated. program will only g
 	- Document Customization Option to Link or Unlink Add-in with Excel Sheet
 - Keyboard Shortcut : `ALT+G+O`
 
+!!! info
+    Application Level Settings vs Document Level Settings
+
+	- **Application Level Settings**(User Preference) settings will Affect All Excel Sheets which are connected to Grillage Add-in.
+	- **Document Level Settings** (Settings Worksheet)are specific to that Perticular Excel Sheet.
+
+	
+
 #### Changelog
 
 - Functions : 
@@ -81,6 +99,10 @@ This group includes checkbox for each model to be generated. program will only g
 - Functions : 
 	- Online Documentation for Project
 - Keyboard Shortcut : `ALT+G+D`
+
+!!! info
+    Documentation for All Nodes Automations Software is Hosted online.This Site is Mobile Compatible Open This  [Link](https://nodesautomations.github.io/staad-grillageaddin/links.html) For QR Code.You can Also Download this Website for Offline Use using this [Link](https://nodesautomations.github.io/staad-grillageaddin/links.html).
+
 
 #### About
 
