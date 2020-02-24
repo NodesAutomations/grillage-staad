@@ -20,8 +20,8 @@ STAAD Grillage Add-in can Generate STAAD Grillage Model as per User Input for an
 
 #### User Interface
 
-![](assets/gifs/firstmodel.gif)
+[![demo-ui](assets/gifs/firstmodel.gif)](assets/gifs/firstmodel.gif)
 
 #### Generated Models
 
-![](assets/gifs/modelgeneration.gif)
+[![demo-models](assets/gifs/modelgeneration.gif)](assets/gifs/modelgeneration.gif)
