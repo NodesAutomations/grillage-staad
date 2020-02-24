@@ -101,7 +101,10 @@ This group includes checkbox for each model to be generated. program will only g
 - Keyboard Shortcut : `ALT+G+D`
 
 !!! info
-    Documentation for All Nodes Automations Software is Hosted online.This Site is Mobile Compatible Open This  [Link](https://nodesautomations.github.io/staad-grillageaddin/links.html) For QR Code.You can Also Download this Website for Offline Use using this [Link](https://nodesautomations.github.io/staad-grillageaddin/links.html).
+    Documentation for All Nodes Automations Software is Hosted online.This Site is Mobile Compatible. This means you can  Open This Documentation on mobile. Scan this [QR Code][1] to Open this on Mobile. You can Also Download this Website for Offline Use using this [Link][2].
+
+[1]:../links.md#qr-code
+[2]:../links.md#website-for-offline-use
 
 
 #### About
