@@ -16,6 +16,11 @@ For Girder and Diapharm are referred using its number.For example, Girder betwee
 ### Longitudinal Grid
 [![longitudinalgrid](../assets/images/Main/longitudinalgrid.png)](../assets/images/Main/longitudinalgrid.png)
 
+Input for Longitudinal Grid is divided into 2 parts, Left longitudinal grid and Right longitudinal Grid.
+As per [Figure][1] Points A,B,C,D,E represent Left Longitudinal Grid and Points F,G,H,I,J represent Right Logitudinal Grid.
+
+
+[1]:#terminology
 
 ### Transverse Grid
 [![transversegrid](../assets/images/Main/transversegrid.png)](../assets/images/Main/transversegrid.png)
