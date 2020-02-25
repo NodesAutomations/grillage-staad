@@ -4,7 +4,7 @@
 
 It is Excel Add-in to Generate STAAD Grillage Model.
 
-STAAD Grillage Add-in can Generate STAAD Grillage Model as per User Input for any geometry or size. Program uses Excel As input Sheet so user can Easily modify formula or change cell links. User has Complete Control over Geometry, Meshing,Section, Supports, Loading, as well as Nodes for Results Extraction.
+STAAD Grillage Add-in can Generate STAAD Grillage Model as per User Input for any geometry or size. The program uses Excel As an input Sheet so the user can Easily modify formula or change cell links. The user has Complete Control over Geometry, Meshing, Section, Supports, Loading, as well as Nodes for Results Extraction.
 
 ### **Features**
 
