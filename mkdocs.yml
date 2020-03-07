@@ -85,6 +85,7 @@ nav:
     - Getting Started : getting-started.md
     - Ribbon : excel/ribbon.md
     - Geometry : excel/geometry.md
+    - Extra Nodes : excel/extra-nodes.md
     - Properties : excel/properties.md
     - Dead Loads : excel/dead-loads.md
     - Live Loads : excel/live-loads.md
@@ -94,7 +95,6 @@ nav:
       - Skew : examples/skew.md
       - Tapered : examples/tapered.md
       - Curvature : examples/curvature.md
-      - Extra Nodes : examples/extra-nodes.md
     - FAQ : faq.md
     - Links : links.md
 
